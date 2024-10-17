@@ -58,6 +58,8 @@ body {
     box-shadow: 5px 5px 0px 1px rgba(0, 0, 0, 0.7);
     box-shadow: 3px 3px 0px black transparent;
     border: 2px solid black;
+    color: #f6feff; /* Color azul */
+    font-weight: bold; /* Texto en negrita */
 }
 
 .nav-links .btn:hover {
